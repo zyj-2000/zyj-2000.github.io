@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "NISC2023.jpg"
   name             : "Yingjie Zhou（周颖杰）"
   pronouns         : # example: "she/her"  
   bio              : "A PhD student focussing on quality assessment of digital human"
