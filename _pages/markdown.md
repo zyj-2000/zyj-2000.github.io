@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 ## Championship at IEEE ICIP2023 Chanllenge 
-![avatar](../files/ICIPW.pdf)
+![avatar](../files/ICIPW.png)
 
+## Grand Prize at 18th Chanllenge Cup
+![avatar](../files/cup18.jpg)
 
 ## Tips and hints
 
