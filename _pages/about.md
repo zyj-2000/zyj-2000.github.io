@@ -14,4 +14,6 @@ Hello! I'm a PhD student from Shanghai Jiao Tong University. My research interes
 News
 ======
 [2023] A paper is published in ZTE Communication\
+[2023] We won the Grand Prize in Challenge Cup \ 
+[2023] We won the Championship in the IEEE ICIP Chanllenge\
 [2023] A paper is accepted in IEEE ICIP
