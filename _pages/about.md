@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to the page of Yingjie Zhou!"
 author_profile: true
 redirect_from: 
   - /about/
