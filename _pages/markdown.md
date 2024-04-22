@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Championship at IEEE ICIP2023 Chanllenge 
-
+![avatar](../files/ICIPW.pdf)
 
 
 ## Tips and hints
