@@ -20,3 +20,16 @@ News
 [2023] We won the Championship in the IEEE ICIP Chanllenge
 
 [2023] A paper is accepted in IEEE ICIP
+
+Open Databases
+======
+[DHHQA] ["Perceptual quality assessment for digital human heads"](https://ieeexplore.ieee.org/abstract/document/10095347) | [Github](https://github.com/zzc-1998/DHHQA) | Static Scanned Digital Human Heads
+
+[DDH-QA] ["DDH-QA: A Dynamic Digital Humans Quality Assessment Database"](https://ieeexplore.ieee.org/abstract/document/10219874) | [Github](https://github.com/zzc-1998/DDH-QA) | Dynamic Digital Human
+
+[SJTU-H3D] ["Advancing Zero-Shot Digital Human Quality Assessment through Text-Prompted Evaluation"](https://arxiv.org/abs/2307.02808) | [Github](https://github.com/zzc-1998/SJTU-H3D) | Static Digital Human
+
+[THQA] ["THQA: A Perceptual Quality Assessment Database for Talking Heads"](https://arxiv.org/abs/2404.09003) | [Github](https://github.com/zzc-1998/DHHQA) | 2D Speech-Driven Talking Heads
+
+
+
