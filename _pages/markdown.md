@@ -13,6 +13,5 @@ redirect_from:
 ## Grand Prize at 18th Chanllenge Cup
 ![avatar](../files/cup18.jpg)
 
-## FPGA
-![avatar](../files/1290.png)
+
 
